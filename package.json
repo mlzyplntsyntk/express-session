@@ -1,0 +1,9 @@
+{
+    "name": "express-session", "version": "1.0.0", "keywords": ["server", "session", "memcached"], "author": "Emir Emre SARBAY <emre at sarbay.com>", "contributors": [], "dependencies": {
+		"cookie-parser":"~1.4.3",
+		"cookie-session" : "~1.2.0",
+		"memcached" : "*",
+		"shortid":"*"
+	},
+	"main" : "session"
+}
